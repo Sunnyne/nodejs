@@ -1,0 +1,21 @@
+{
+  "name": "jisun",
+  "version": "1.0.0",
+  "description": "jisun nodejs study 1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jisun",
+    "nodejs",
+    "study"
+  ],
+  "author": "jisun",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
+  }
+}
